@@ -1,0 +1,45 @@
+a { text-decoration: none; 
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: azure;
+}
+.bac{
+    background-color: rgb(246, 247, 255);
+}
+
+.pupupu{
+    background-color: yellow;
+    cursor: pointer;
+    padding-left: 20;
+    transition: all 1s ease-in-out;
+    width: 100px;
+}
+.cart{
+display: flex;
+background-color: black;
+border-radius: 15%;
+
+}
+.text{
+    color:black;
+    
+}
+.text2{
+    color: rgb(246, 247, 255);
+}
+.zag{
+    cursor: pointer;
+
+    color: blueviolet;
+
+}
+.pupupu:hover{
+   transform: scale(1.1);
+}
+.pr{
+    width: 100%;
+}
