@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+/*
+Импорт шрифта
+*/
+body{
+width: 1440px;
+}
+/*
+Изменение размера тела
+*/
+header{
+    height: 98px;
+    background-color: rgba(140, 108, 191, 1);
+    display: flex;
+}
+/*
+Настройка контейнера для шапки сайта
+*/
+nav{
+    height: 98px;
+    background-color: rgba(140, 108, 191, 1);
+    display: flex;
+    width: 1440px;
+}
+/*
+Настройка контейнера для навигации
+*/
+.headertext{
+    color: rgba(255, 255, 255, 1);
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+/*
+Настройка первого учавствующего текста в header
+*/
+.headertext2{
+    font-family: Mulish;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: right;
+    vertical-align: middle;
+    color: rgba(255, 255, 255, 1);
+}
+/*
+Настройка второго учавствующего текста в header
+*/
+.phone{
+    font-family: Mulish;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: right;
+vertical-align: middle;
+color: rgba(255, 255, 255, 1);
+margin-right: 40px;
+}
+/*
+Настройка для номера телефона
+*/
+.oyvzio{
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 68px;
+    letter-spacing: 0%;
+    color: rgba(255, 255, 255, 1);
+
+}
+/*
+обучение йоге в зале и онлайн
+*/
+.pss{
+    margin-top: 24px;
+    font-family: Mulish;
+font-weight: 500;
+font-size: 24px;
+line-height: 130%;
+letter-spacing: 0%;
+color: rgba(255, 255, 255, 0.8);
+}
+/*
+По системе самосовершенствования
+*/
+.podr{
+background-color: rgba(255, 255, 255, 1);
+margin-top: 40px;
+width: 346px;
+height: 56px;
+border-radius: 6px;
+border-width: 1px;
+border: 1px solid rgba(0, 0, 0, 0.06);
+box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.08);
+}
+/*
+Подробнее
+*/
+.tpodr{
+    width: 99;
+    height: 24;
+    font-family: Mulish;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(140, 108, 191, 1);
+
+}
+/*
+Текст подробнее
+*/
+.zpr{
+    margin-top: 24px;
+    font-family: Mulish;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    color: rgba(255, 255, 255, 0.7);
+    width: 346px;
+height: 20px;
+
+}
+/*
+Занятия по расписанию
+*/
